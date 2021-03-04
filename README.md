@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with laravel dependancy injections
 - 💬 Ask me about Anything  🤣
 - 📫 How to reach me: noelmdala2017@gmail.com
-- ⚡ Fun fact: i gont know how to swim 🏊 🏊 
+- ⚡ Fun fact: i dont know how to swim 🏊 🏊 
